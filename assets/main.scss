@@ -1,0 +1,149 @@
+--- 
+# Only the main Sass file needs front matter (the dashes are enough) 
+--- 
+
+/* Override theme defaults */
+$base-font-family: "Albert Sans";
+
+/* load _sass/minima.scss */
+@import "minima";
+
+/* Put any custom CSS here */
+
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../assets/fonts/albert-sans-v1-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../assets/fonts/albert-sans-v1-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+.post-list-content {
+  display: block;
+  padding-top: 10px;
+}
+
+.post-flex {
+  display: flex;
+  padding-bottom: 10px;
+  border-bottom: 1px solid $grey-color-light;
+  @include media-query($on-palm) {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.post-thumbnail {
+  padding-right: 25px;
+  @include media-query($on-palm) {
+    padding-right: 0;
+    padding-bottom: 15px;
+  }
+  img {
+    width: 100%;
+    width: 200px;
+    max-width: 200px;
+    max-height: 200px;
+    object-fit: cover;
+    @include media-query($on-palm) {
+      width: 250px;
+      max-width: 250px;
+      max-height: 250px;
+    }
+  }
+}
+
+.img-left {
+  float: left;
+  margin-right: 1em;
+  width: 200px;
+  max-width: 200px;
+  max-height: 100%;
+}
+
+.img-right {
+  float: right;
+  margin-left: 1em;
+  width: 200px;
+  max-width: 200px;
+  max-height: 100%;
+}
+
+/* Contact Form */
+
+.form-label {
+  display: block;
+  font-size: 1rem;
+  margin-bottom: 0.55556em;
+  span {
+    color: $grey-color-dark;
+    font-size: 0.77778rem;
+    font-weight: normal;
+  }
+}
+
+.form-item {
+  margin-bottom: 30px;
+}
+
+.form-textarea {
+  min-height: 230px;
+}
+
+.contact-form {
+  border: 1px solid $grey-color-light;
+  border-radius: 3px;
+  box-sizing: border-box;
+  margin-bottom: 3.33333em;
+  padding: 35px 30px 45px;
+}
+
+input,
+select,
+textarea {
+  background: #fff;
+  border: 1px solid $grey-color-dark;
+  border-radius: 0;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: $grey-color;
+  font-size: 16px;
+  line-height: 1.5;
+  max-width: 100%;
+  padding: 8px 10px;
+  vertical-align: baseline;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+select,
+textarea {
+  display: block;
+  width: 100%;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+select:focus,
+textarea:focus {
+  outline: 0;
+}
+
+.post-tags {
+  a {
+    margin-right: 10px;
+    padding: 2px 5px;
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+}
