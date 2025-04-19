@@ -5,7 +5,7 @@ date: 2008-04-17 19:50:49
 categories: [posts]
 ---
 
-[![Nasturtium rain drops](http://farm2.static.flickr.com/1320/1472324595_fb1d06d116_m.jpg)](http://www.flickr.com/photos/warriorwomen/1472324595/)
+[![Nasturtium rain drops](https://farm2.static.flickr.com/1320/1472324595_fb1d06d116_m.jpg)](https://www.flickr.com/photos/warriorwomen/1472324595/)
 
 A long time ago I read somewhere that nasturtium seeds can be pickled and used as a replacement caper. I love capers but don't feel so upbeat about the price of the tiny little jars so I've been wanting to try out this cheapskate trick for ages.
 

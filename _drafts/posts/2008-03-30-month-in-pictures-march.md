@@ -5,7 +5,7 @@ date: 2008-03-30 22:38:03
 categories: [posts]
 ---
 
-[![Month in Pictures - March](http://farm4.static.flickr.com/3239/2375322110_4a28ef7ed9.jpg)](http://www.flickr.com/photos/warriorwomen/2375322110/)
+[![Month in Pictures - March](https://farm4.static.flickr.com/3239/2375322110_4a28ef7ed9.jpg)](https://www.flickr.com/photos/warriorwomen/2375322110/)
 
 Progress report for March.
 
@@ -20,4 +20,4 @@ March has been a wash out weather wise and we even managed a bit of snow. A litt
 
 March marks the end of my first 6 months with the plot so here's the before and after shot:
 
-[![Six Months Hard Labour](http://farm4.static.flickr.com/3103/2375295764_007be805a6.jpg)](http://www.flickr.com/photos/warriorwomen/2375295764/)
+[![Six Months Hard Labour](https://farm4.static.flickr.com/3103/2375295764_007be805a6.jpg)](https://www.flickr.com/photos/warriorwomen/2375295764/)

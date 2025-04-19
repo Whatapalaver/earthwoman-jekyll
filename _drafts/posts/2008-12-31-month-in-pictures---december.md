@@ -5,7 +5,7 @@ date: 2008-12-31 09:57:51
 categories: [posts]
 ---
 
-[![Month in Pictures - December 2008](http://farm4.static.flickr.com/3083/3131766626_6c45a6a40a.jpg)](http://www.flickr.com/photos/warriorwomen/3131766626/)
+[![Month in Pictures - December 2008](https://farm4.static.flickr.com/3083/3131766626_6c45a6a40a.jpg)](https://www.flickr.com/photos/warriorwomen/3131766626/)
 
 Life dried off a little for December and I managed to get down to the plot quite a few times.
 

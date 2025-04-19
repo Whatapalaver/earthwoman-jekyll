@@ -5,7 +5,7 @@ date: 2007-11-03 22:45:32
 categories: [posts]
 ---
 
-[![Compost Heap](http://farm3.static.flickr.com/2108/1775526896_426225df3c_m.jpg)](http://www.flickr.com/photos/warriorwomen/1775526896/)
+[![Compost Heap](https://farm3.static.flickr.com/2108/1775526896_426225df3c_m.jpg)](https://www.flickr.com/photos/warriorwomen/1775526896/)
 
 I staggered across to my allotment today, laden with compostable materials. Not sure what the heck happened on the waste front last week but I'm going to blame the veg box. I could barely carry the bag of peelings, vacuum crud and shredded paper and by the time I added my friends sack of grass clippings to the load I was really struggling.
 
@@ -13,7 +13,7 @@ Still, it's got to be done. Compost is my new passion of the moment and as I hav
 
 It was practically dark by 3pm today so I had to light my way by a rather impressive bonfire. It was my best so far and actually managed to make an impact on my mountain of couch grass roots. It's also provided a good heap of high potash ash that should give my fruit trees a good spurt for next year. I've been building the fire on the site I've earmarked for the Spartan tree due next month.
 
-[![Lacewing Hotel](http://farm3.static.flickr.com/2392/1846875685_37998b22de_m.jpg)](http://www.flickr.com/photos/warriorwomen/1846875685/)
+[![Lacewing Hotel](https://farm3.static.flickr.com/2392/1846875685_37998b22de_m.jpg)](https://www.flickr.com/photos/warriorwomen/1846875685/)
 
 I'm really enjoying the preparation stage of this allotment and am just a tad worried about what I'm going to do when I've got everything sorted. I have a low attention span and get rapidly bored by tasks so the new plot is ideal for me - every 5 mins I can hop to a new job. Today I did bonfire building (which is actually quite hard to get bored of), lacewing hotel making, weeding (doh!), transplanting, manky chard nurturing, cloche making and compost stirring.
 

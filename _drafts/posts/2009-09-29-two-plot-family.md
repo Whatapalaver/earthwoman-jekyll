@@ -13,4 +13,4 @@ It's quite an exciting time, daunting but full of promise. The fresh start is an
 
 Here are the initial photos from our first visit, it's a long thin plot of 5 rods. We can't actually start work before the 1st October, which effectively means that D-Day is set for Saturday. I better book the massage session now.
 
-[![Norbury Park - New Plot](http://farm3.static.flickr.com/2501/3967193798_c4dc150a7b.jpg)](http://www.flickr.com/photos/warriorwomen/3967193798/ "Norbury Park - New Plot by warriorwomen, on Flickr")
+[![Norbury Park - New Plot](https://farm3.static.flickr.com/2501/3967193798_c4dc150a7b.jpg)](https://www.flickr.com/photos/warriorwomen/3967193798/ "Norbury Park - New Plot by warriorwomen, on Flickr")

@@ -5,7 +5,7 @@ date: 2008-10-13 21:36:32
 categories: [posts]
 ---
 
-[![Month in Pictures - September 2008](http://farm4.static.flickr.com/3031/2938638783_91573eaf56.jpg)](http://www.flickr.com/photos/warriorwomen/2938638783/)
+[![Month in Pictures - September 2008](https://farm4.static.flickr.com/3031/2938638783_91573eaf56.jpg)](https://www.flickr.com/photos/warriorwomen/2938638783/)
 
 It was a bit of a struggle to find enough for photos for Septembers month in pictures. What a wash out it's been. I've hardly made it to the plot at all this month.
 

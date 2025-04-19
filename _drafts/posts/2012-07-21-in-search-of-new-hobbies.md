@@ -11,7 +11,7 @@ Next year I may try out a new hobby of browsing the veg aisles in the local Lidl
 
 Broad beans have been the only success this year, in fact they were so successful that I can barely close the freeze door without bursting an over stuffed sack of beans.
 
-[![20120721-175743.jpg](http://www.earthwoman.co.uk/wp-content/uploads/2012/07/20120721-175743.jpg)](http://www.earthwoman.co.uk/wp-content/uploads/2012/07/20120721-175743.jpg)Everything else?
+[![20120721-175743.jpg](https://www.earthwoman.co.uk/wp-content/uploads/2012/07/20120721-175743.jpg)](https://www.earthwoman.co.uk/wp-content/uploads/2012/07/20120721-175743.jpg)Everything else?
 
 Absolutely everything else is a complete flop.
 
@@ -21,7 +21,7 @@ The second row was no better, in fact I unearthed more slugs than potatoes.
 
 The runner beans are nothing short of an embarrassment.
 
-[![20120721-175756.jpg](http://www.earthwoman.co.uk/wp-content/uploads/2012/07/20120721-175756.jpg)](http://www.earthwoman.co.uk/wp-content/uploads/2012/07/20120721-175756.jpg)
+[![20120721-175756.jpg](https://www.earthwoman.co.uk/wp-content/uploads/2012/07/20120721-175756.jpg)](https://www.earthwoman.co.uk/wp-content/uploads/2012/07/20120721-175756.jpg)
 
 The mountain goat species of snail has been up and down each wigwam, decimating each and every plant.
 

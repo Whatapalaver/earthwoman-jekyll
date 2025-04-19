@@ -5,9 +5,9 @@ date: 2012-02-03 18:06:25
 categories: [posts]
 ---
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2012/02/the-wild-life-a-year-of-living-on-wild-food-3196-p.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2012/02/the-wild-life-a-year-of-living-on-wild-food-3196-p.jpg)
 
-I've been inspired by John Lewis-Stempel's "[The Wild Life](http://amzn.to/yEMipQ)", to resurrect my fascination with wild and local foods. Although I haven't actually foraged much further afield than Borough Market, I am currently preparing a pot of slow cooked, wild, rabbit stew. I might not have shot it myself but I was rather perturbed when I noticed bunny fur remaining on the quartered carcass. De-fluffing the tea brought me a bit too close to the harsh realities of our carnivorous lifestyle but that can only be a good thing.
+I've been inspired by John Lewis-Stempel's "[The Wild Life](https://amzn.to/yEMipQ)", to resurrect my fascination with wild and local foods. Although I haven't actually foraged much further afield than Borough Market, I am currently preparing a pot of slow cooked, wild, rabbit stew. I might not have shot it myself but I was rather perturbed when I noticed bunny fur remaining on the quartered carcass. De-fluffing the tea brought me a bit too close to the harsh realities of our carnivorous lifestyle but that can only be a good thing.
 
 I'm not sure I'll be able to persuade any one else to join me for a serving so I've taken the precaution of preparing a backup leek and potato soup.
 

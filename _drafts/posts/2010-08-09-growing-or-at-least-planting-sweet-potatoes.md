@@ -5,7 +5,7 @@ date: 2010-08-09 20:46:41
 categories: [posts]
 ---
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2010/08/Sweet-Potato-300x288.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2010/08/Sweet-Potato-300x288.jpg)
 
 I reached into the veg basket this morning hoping to find a selection of ingredients for a wholesome veggie curry and pulled out this whopping sweet potato - a little past it's best I'd say.
 
@@ -17,7 +17,7 @@ I've done a bit more research now and I'm beginning to hope that it rots in situ
 
 > In fact, the question is not how to grow sweet potatoes, it's rather how to stop sweet potato vines from taking over the whole garden! Sweet potato is a very invasive creeper...
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2010/08/Ruby-and-Sweet-Potato-224x300.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2010/08/Ruby-and-Sweet-Potato-224x300.jpg)
 
 Sounds like I might have inadvertently attempted to cultivate a persistent weed on the allotment. Great.
 

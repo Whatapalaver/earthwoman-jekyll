@@ -5,7 +5,7 @@ date: 2008-06-02 10:00:47
 categories: [posts]
 ---
 
-[![01062008096](http://farm4.static.flickr.com/3056/2544729858_48ef6c4899_m.jpg)](http://www.flickr.com/photos/warriorwomen/2544729858/)
+[![01062008096](https://farm4.static.flickr.com/3056/2544729858_48ef6c4899_m.jpg)](https://www.flickr.com/photos/warriorwomen/2544729858/)
 
 Thought I’d test the progress with the spuds today. There has been so much rain that I imagined whopping great sacks of juicy tubers sitting under the mounds of earth.
 

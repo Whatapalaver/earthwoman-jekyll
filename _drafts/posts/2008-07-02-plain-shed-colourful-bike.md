@@ -11,12 +11,12 @@ I took the train to the plot at the weekend and discovered that every single fla
 
 They can come back as often as they like now, I'll be ready for em.
 
-[![Shed & Bike](http://farm4.static.flickr.com/3064/2631787636_cf900b2f12.jpg)](http://www.flickr.com/photos/warriorwomen/2631787636/)
+[![Shed & Bike](https://farm4.static.flickr.com/3064/2631787636_cf900b2f12.jpg)](https://www.flickr.com/photos/warriorwomen/2631787636/)
 
 They didn't cause any more damage by the way - all my crops were left intact which is a blessing.
 
-[![Borlotta and Runner Beans](http://farm4.static.flickr.com/3083/2631643338_03695919a7_m.jpg)](http://www.flickr.com/photos/warriorwomen/2631643338/)
+[![Borlotta and Runner Beans](https://farm4.static.flickr.com/3083/2631643338_03695919a7_m.jpg)](https://www.flickr.com/photos/warriorwomen/2631643338/)
 
-I picked up my new Brompton from the fantastic [Wizz Bike](http://www.wizzbike.com/) this evening and went straight to the plot to photograph the new machine in amongst the potatoes. The foliage just sets the colours off!
+I picked up my new Brompton from the fantastic [Wizz Bike](https://www.wizzbike.com/) this evening and went straight to the plot to photograph the new machine in amongst the potatoes. The foliage just sets the colours off!
 
 I was surprised to find that the beans are ready to start cropping, I had a trangia full of Borlotta and runner beans for my tea, shamefully mixed with a packet of curry flavoured supernoodles.

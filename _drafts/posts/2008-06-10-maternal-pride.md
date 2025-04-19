@@ -4,7 +4,7 @@ title: "Maternal Pride"
 date: 2008-06-10 22:21:40
 categories: [posts]
 ---
-[![Frog](http://farm4.static.flickr.com/3031/2567983039_d0d923098e_m.jpg)](http://www.flickr.com/photos/warriorwomen/2567983039/)
+[![Frog](https://farm4.static.flickr.com/3031/2567983039_d0d923098e_m.jpg)](https://www.flickr.com/photos/warriorwomen/2567983039/)
 
 I was leaning over the pond this evening, trying to reach the juicy alpine strawberries, when I spotted a big adult frog eyeballing me from the comfort of the pool.
 

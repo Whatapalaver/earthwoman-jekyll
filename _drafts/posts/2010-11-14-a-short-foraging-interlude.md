@@ -7,7 +7,7 @@ categories: [posts]
 
 Last weekend I became a forager, this weekend I quit.
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2010/11/Alices-Yurt-224x300.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2010/11/Alices-Yurt-224x300.jpg)
 
 It started at 11am this morning in the pouring rain, we'd just had to vacate our lovely weekend Yurt and the warm safety of the wood burning stove. All for the sake of a haw, or two.
 
@@ -17,9 +17,9 @@ It started well enough but 45 minutes in, the bowl was not getting any emptier, 
 
 Having boiled the trimmed berries up in my lovely stock pot I got to while away another hour or so squishing fruity vinegar juice through a colander and then a sieve. I have purple pulp from one end of the kitchen to another and Lynn will get indigestion again when she spots it.
 
-I now have two bottles of ketchup and a lovely book on [hedgerow preserves](http://www.amazon.co.uk/gp/product/0747595321?ie=UTF8&tag=warriorwomen-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=0747595321) that I will probably never use again - life is too short!
+I now have two bottles of ketchup and a lovely book on [hedgerow preserves](https://www.amazon.co.uk/gp/product/0747595321?ie=UTF8&tag=warriorwomen-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=0747595321) that I will probably never use again - life is too short!
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2010/11/mosaic4d40c9220dc11384d9e34c83307b95a069139b02-450x300.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2010/11/mosaic4d40c9220dc11384d9e34c83307b95a069139b02-450x300.jpg)
 
 It is a marvelous book actually and here's the recipe I used for the Hawthorn Ketchup, I had to double up on quantities as Ihad 1.2kg or berries:
 

@@ -9,7 +9,7 @@ Blimey, July is a busy month.
 
 I've been on the plot almost every day and yet don't seem to have done anything constructive. The time is taken up by watering and picking crops (not that I'm complaining), with precious little time for making any last minute sowings.
 
-[![Month in Pictures - July 2008](http://farm4.static.flickr.com/3072/2726626816_fb52943964.jpg)](http://www.flickr.com/photos/warriorwomen/2726626816/)
+[![Month in Pictures - July 2008](https://farm4.static.flickr.com/3072/2726626816_fb52943964.jpg)](https://www.flickr.com/photos/warriorwomen/2726626816/)
 
 I haven't had much time for blogging recently so there are a few new photos in the montage.
 

@@ -7,7 +7,7 @@ categories: [posts]
 
 I went to the plot this weekend with the intention of digging over acres of land ready for mammoth spud burying activities on Good Friday but the ground was too soggy for me to bother. I did a bit of shed tidying instead and laid out a load of the bargain seed potatoes that Dad and I bought from B&Q.
 
-[![180120091046](http://farm4.static.flickr.com/3258/3206425284_346959a358_m.jpg)](http://www.flickr.com/photos/warriorwomen/3206425284/)
+[![180120091046](https://farm4.static.flickr.com/3258/3206425284_346959a358_m.jpg)](https://www.flickr.com/photos/warriorwomen/3206425284/)
 
 I had to dispose of a load of King Edwards as they were black and soggy with the blight. No wonder they appeared to be such a good bargain.
 

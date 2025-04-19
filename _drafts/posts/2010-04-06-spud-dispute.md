@@ -7,7 +7,7 @@ categories: [posts]
 
 We barely made it to the plot at all in March but just as the month was turning, the sun arrived. We grabbed our seed potatoes and ran to the plot clutching a days supply of delicately cut sandwiches and flasks of hot drinks.
 
-[![](http://whatapalaver.co.uk/wp-content/uploads/2010/04/IMG_0612-225x300.jpg)](http://whatapalaver.co.uk/wp-content/uploads/2010/04/IMG_0612.jpg)
+[![](https://whatapalaver.co.uk/wp-content/uploads/2010/04/IMG_0612-225x300.jpg)](https://whatapalaver.co.uk/wp-content/uploads/2010/04/IMG_0612.jpg)
 
 Four hours later, stripped to our t-shirts, we would have happily discarded the flasks in favour of a few tinnies.
 
@@ -19,7 +19,7 @@ Our potato planting led to some interesting debates. I'm relying on C. H. Middle
 
 I'm a big fan of books and so would usually disregard 50 years of practical experience for something that could be gleaned by a quick scan from the comfort of a bath. We opted for the Dig your Own method: 1/2 spade depth furrow, place in spud and then cover with soil and a sprinkling of manure. No earthing up until the foliage starts to poke through.
 
-[![](http://whatapalaver.co.uk/wp-content/uploads/2010/04/IMG_0613-225x300.jpg)](http://whatapalaver.co.uk/wp-content/uploads/2010/04/IMG_0613.jpg)
+[![](https://whatapalaver.co.uk/wp-content/uploads/2010/04/IMG_0613-225x300.jpg)](https://whatapalaver.co.uk/wp-content/uploads/2010/04/IMG_0613.jpg)
 
 The experienced voice tells us to dig a trench, place in manure with spuds on top and then earth up enough to allow the rain to run off and prevent rotting. I know it sounds sensible and was in fact my method of old, but its hard work and in clay, I'm all for short cuts. I do hope the buggers don't rot though, I'll never hear the end of it.
 
@@ -29,4 +29,4 @@ I wouldn't waste time with the autumn sown peas - horrible dry things, but I thi
 
 Here's Lynn proudly constructing the mesh cloche over the sowings.
 
-We also had time to set the uber cheap summer bulbs (care of Lidl) by the rhubarb patch and get in a few rows of carrots and parsnips. I've gone mad with carrots again, so along with the standard Nantes varieties I've got some Red Samurai and Purple Haze, so with my usual [carrot success rate](http://www.earthwoman.co.uk/2008/06/02/don%e2%80%99t-panic-carrot-returns/) these are all set to be mighty expensive tubers again.
+We also had time to set the uber cheap summer bulbs (care of Lidl) by the rhubarb patch and get in a few rows of carrots and parsnips. I've gone mad with carrots again, so along with the standard Nantes varieties I've got some Red Samurai and Purple Haze, so with my usual [carrot success rate](https://www.earthwoman.co.uk/2008/06/02/don%e2%80%99t-panic-carrot-returns/) these are all set to be mighty expensive tubers again.

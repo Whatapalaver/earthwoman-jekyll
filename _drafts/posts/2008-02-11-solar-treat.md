@@ -9,11 +9,11 @@ Another glorious weekend and I managed to sneak two full days on the plot. I was
 
 nNo sun bathing for these coy little beauties, they spend their entire lives looking at the ground, I wonder what made them so shy.
 
-[![Coy](http://farm3.static.flickr.com/2176/2255536344_1db57e4052.jpg)](http://www.flickr.com/photos/warriorwomen/2255536344/)
+[![Coy](https://farm3.static.flickr.com/2176/2255536344_1db57e4052.jpg)](https://www.flickr.com/photos/warriorwomen/2255536344/)
 
 It wasn't a completely lazy weekend, I spent most of the time digging and now there's only a small strip left to go before the entire plot will have been given the once over.
 
-[![Stale Seed Bed](http://farm3.static.flickr.com/2056/2258965982_ffac4479ed_m.jpg)](http://www.flickr.com/photos/warriorwomen/2258965982/)
+[![Stale Seed Bed](https://farm3.static.flickr.com/2056/2258965982_ffac4479ed_m.jpg)](https://www.flickr.com/photos/warriorwomen/2258965982/)
 
 I also prepared a seed bed. I really don't know why I keep being attracted towards construction jobs, I must be the worlds worst DIY'er. I gathered my scrap planks, chopped to them to size and then nailed them together into a frame of sorts before knocking it and the stakes into the freshly dug ground. As soon as I took the hammer to the stakes the whole frame decided to blow apart. 30 bent nails later I managed to get it to stay together for long enough to step away from the disaster area.
 

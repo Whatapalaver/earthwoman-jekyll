@@ -11,4 +11,4 @@ A two pronged assault during a sunny break in the middle of the month proved to 
 
 Weeds were pulled, beans were planted and my resident constructionist re-built last years rather poorly looking greenhouse. The plot looks like a growing environment once again!
 
-[![Month in Pictures - April 2009](http://farm4.static.flickr.com/3611/3498776520_38fc032143.jpg)](http://www.flickr.com/photos/warriorwomen/3498776520/)
+[![Month in Pictures - April 2009](https://farm4.static.flickr.com/3611/3498776520_38fc032143.jpg)](https://www.flickr.com/photos/warriorwomen/3498776520/)

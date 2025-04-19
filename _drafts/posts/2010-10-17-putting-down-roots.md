@@ -5,7 +5,7 @@ date: 2010-10-17 21:47:51
 categories: [posts]
 ---
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2010/10/Asparagus-Bed-225x300.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2010/10/Asparagus-Bed-225x300.jpg)
 
 I must feel settled here.
 
@@ -19,4 +19,4 @@ I was ready to wipe off the idea of Christmas potatoes when we arrived. The spud
 
 Lynn managed to uncover a remarkably impressive array of delicate skinned tubers from the two diseased rows and we headed home to run a taste test on the three varieties - Bambino, Vivaldi and Maris Peer.
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2010/10/October-Harvest-450x337.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2010/10/October-Harvest-450x337.jpg)

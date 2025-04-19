@@ -9,7 +9,7 @@ My squashes have not done at all well this year and if I don't find myself burie
 
 I didn't help myself very much by sowing 7 year old seed as the germination rate has been exceptionally poor. The fresh gherkin seed didn't do too badly but my little plants were swallowed whole by the slugs and I've been forced to start again.
 
-[![01062008094](http://farm4.static.flickr.com/3082/2541348501_c3ef6b54af_m.jpg)](http://www.flickr.com/photos/warriorwomen/2541348501/)
+[![01062008094](https://farm4.static.flickr.com/3082/2541348501_c3ef6b54af_m.jpg)](https://www.flickr.com/photos/warriorwomen/2541348501/)
 
 Last week I planted my single successful courgette plant in amongst the sweetcorn, inter planted with climbing french bean "Blue Lake" in the classic Three Sisters arrangement. Since then it has done nothing but rain so I arrived at the plot this morning, convinced that a silvery trail would be all that was left of my gardening pride.
 
@@ -17,7 +17,7 @@ Thankfully the squash survived the week. I seemed to have provided an unintended
 
 I removed the earliest row of broad beans today, they were just about finished and I needed the space to plant out my purple sprouting broccoli and other assorted brassicas. I left the roots of the bean in for the nitrogen but the stalks have filled all 3 of my compost bins. I hope they compost down quickly as I'll be removing the second row in a few weeks time.
 
-[![Garlic](http://farm4.static.flickr.com/3062/2559442892_505bd2f3fc_m.jpg)](http://www.flickr.com/photos/warriorwomen/2559442892/)
+[![Garlic](https://farm4.static.flickr.com/3062/2559442892_505bd2f3fc_m.jpg)](https://www.flickr.com/photos/warriorwomen/2559442892/)
 
 The garlic next to the beans are looking very sorry for themselves. All the foliage is badly covered in rust and although I must be a couple of months too early I have started to lift some of the bulbs.
 

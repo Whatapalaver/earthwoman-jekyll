@@ -15,7 +15,7 @@ Cue much swearing....
 
 I'd requested a second compost bin for the plot so that we can turn the contents of the bins from time to time and speed up the decomposition. Having spent a week scouring the neighbourhood for discarded pallets we had acquired enough to start the build.
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2012/04/Pallet-Building-450x337.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2012/04/Pallet-Building-450x337.jpg)
 
 The pallets were pretty much indestructible and Lynn wielded that hammer for a good hour before the blocks would loosen sufficiently to be able to fashion a sliding door for the front of the bin. I busied myself with the camera and tried to stay out of reach of the swing.
 

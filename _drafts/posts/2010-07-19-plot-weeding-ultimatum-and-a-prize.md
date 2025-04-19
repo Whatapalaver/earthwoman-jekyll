@@ -11,7 +11,7 @@ They then told us that we had won the best new comers award - no congratulations
 
 Apparently we were now in the running for best new comers in the whole of Croydon. The committee had seemed slightly pre-occupied by the pan-Croydon allotment competition for a few weeks. A fancy new pergola has been erected by the entrance and bee hives have been introduced into a tiny corner.
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2010/08/Peaches-225x300.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2010/08/Peaches-225x300.jpg)
 
 Everyone has been instructed to tidy up and now it was our turn. All eyes on our plot.
 
@@ -21,4 +21,4 @@ In the privacy of our own plot we allowed a little smugness to sneak through. Ly
 
 Here's a quick tour of our award winning plot.
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2010/08/4888547245_a29d7ee7f32-450x450.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2010/08/4888547245_a29d7ee7f32-450x450.jpg)

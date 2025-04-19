@@ -13,4 +13,4 @@ Two bottles of waggledance later, the onions were still sitting there, so I gave
 
 A couple of wonky rows went in before I started watering and was pleased to create my very own rainbow. Having the foot of the rainbow land in my Brussel Sprout patch must augur well for a bumper Christmas harvest, it didn't unfortunately mark the site of a pot of gold.
 
-[![27092008897](http://farm4.static.flickr.com/3154/2891575353_df19522ac6.jpg)](http://www.flickr.com/photos/warriorwomen/2891575353/)
+[![27092008897](https://farm4.static.flickr.com/3154/2891575353_df19522ac6.jpg)](https://www.flickr.com/photos/warriorwomen/2891575353/)

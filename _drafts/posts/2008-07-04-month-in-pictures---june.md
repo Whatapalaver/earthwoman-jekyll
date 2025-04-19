@@ -7,7 +7,7 @@ categories: [posts]
 
 So June has been and gone and I can't believe I managed to miss the summer solstice. I was pleased to discover while putting together this months - Month in Pictures, that I was at least on the plot on the 21st - sowing more carrots. If the summer solstice is also known as midsummers day, that would also suggest that I missed the whole of the first half of summer, I've been assuming we were still in spring - when does summer actually start?
 
-[![Month in Pictures - June 08](http://farm4.static.flickr.com/3033/2636768591_dc4d17fb5c.jpg)](http://www.flickr.com/photos/warriorwomen/2636768591/)
+[![Month in Pictures - June 08](https://farm4.static.flickr.com/3033/2636768591_dc4d17fb5c.jpg)](https://www.flickr.com/photos/warriorwomen/2636768591/)
 
 June was a good month on the food front, the broad beans were finished with but were replaced at the end of the month by runner and borlotta beans. Spuds were worth digging up from the 2nd week, although I'd probably have got some earlier if I'd taken some anti slug measures.
 

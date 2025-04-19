@@ -5,7 +5,7 @@ date: 2008-09-11 20:57:02
 categories: [posts]
 ---
 
-[![Month in Pictures - August 2008](http://farm4.static.flickr.com/3293/2818526099_d502765260.jpg)](http://www.flickr.com/photos/warriorwomen/2818526099/)
+[![Month in Pictures - August 2008](https://farm4.static.flickr.com/3293/2818526099_d502765260.jpg)](https://www.flickr.com/photos/warriorwomen/2818526099/)
 
 Despite the grotty wet weather, August still flourished and I spent almost all of my gardening time harvesting crops. Can't complain about that but it does mean I failed to sow any overwintering crops, hopefully September sown spring cabbages will still be productive.
 

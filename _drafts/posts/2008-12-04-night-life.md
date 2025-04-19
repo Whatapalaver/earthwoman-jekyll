@@ -13,4 +13,4 @@ My helmet lamp is quite bright so I left it on to dig amongst the carrot beds an
 
 My tea is looking more promising tonight.
 
-[![Late Night Carrot Ferreting](http://farm4.static.flickr.com/3180/3081949641_324aba1512.jpg)](http://www.flickr.com/photos/warriorwomen/3081949641/)
+[![Late Night Carrot Ferreting](https://farm4.static.flickr.com/3180/3081949641_324aba1512.jpg)](https://www.flickr.com/photos/warriorwomen/3081949641/)

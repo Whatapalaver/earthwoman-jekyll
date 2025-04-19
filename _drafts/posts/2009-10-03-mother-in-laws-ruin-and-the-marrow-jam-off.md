@@ -5,11 +5,11 @@ date: 2009-10-03 01:07:43
 categories: [posts]
 ---
 
-There's been some degree of performance anxiety in the house since the great [marrow jam disaster of August 09](http://www.earthwoman.co.uk/2009/08/27/marrow-jam/).
+There's been some degree of performance anxiety in the house since the great [marrow jam disaster of August 09](https://www.earthwoman.co.uk/2009/08/27/marrow-jam/).
 
 We made a minor error of judgement when we told the whole, sorry, sloppy tale to the mother in law. Having triggered a nostalgic memory for jams of old she's been threatening ever since to pull down her preserving pot and demonstrate culinary majesty over the humble squash.
 
-![mrs beeton](http://www.earthwoman.co.uk/wp-content/uploads/2009/10/mrs-beeton.jpg)
+![mrs beeton](https://www.earthwoman.co.uk/wp-content/uploads/2009/10/mrs-beeton.jpg)
 
 Of course I am just too stubborn to roll over and admit that I'm plain useless in the conserve department. Instead of looking forward to a xmas present of beautifully presented preserves, I've been hoarding marrows for a future jam off. Not wanting to play my cards too early, they've been sitting in the veg rack going musky while I've been researching alternative routes to beautifully set jam, courtesy of Mrs Beeton.
 

@@ -9,9 +9,9 @@ Well there was no eviction notice tacked to the front of the shed so I may start
 
 Check out the laminate flooring!
 
-[![Shed Wide View](http://www.earthwoman.co.uk/wp-content/uploads/2007/12/shedwideview.jpg)](http://www.earthwoman.co.uk/wp-content/uploads/2007/12/shedwideview.jpg "Shed Wide View")
+[![Shed Wide View](https://www.earthwoman.co.uk/wp-content/uploads/2007/12/shedwideview.jpg)](https://www.earthwoman.co.uk/wp-content/uploads/2007/12/shedwideview.jpg "Shed Wide View")
 
-[![Spartan Apple Tree](http://farm3.static.flickr.com/2179/2081113848_c3f6cc7889_m.jpg)](http://www.flickr.com/photos/warriorwomen/2081113848/)
+[![Spartan Apple Tree](https://farm3.static.flickr.com/2179/2081113848_c3f6cc7889_m.jpg)](https://www.flickr.com/photos/warriorwomen/2081113848/)
 
 Despite the horrendous weather (Dad take note - your weather forecasting is not to be trusted), I enjoyed a little pottering on the plot. I managed to plant out the new Spartan apple tree, sort the compost and do a bit of hoeing between the onions and garlic.
 

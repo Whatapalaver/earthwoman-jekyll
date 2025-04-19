@@ -5,7 +5,7 @@ date: 2012-03-18 20:41:13
 categories: [posts]
 ---
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2012/03/photo12-224x300.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2012/03/photo12-224x300.jpg)
 
 I have been known to swear in the presence of the M1 Garden Rotovator but after Reg gave it the overhaul last year and passed on his top tips I knew that the trick was to filter the petrol through a pair of Tracey Hammett's tights.
 
@@ -21,7 +21,7 @@ Of course that didn't work.
 
 I went back to the old fashioned method of forking over the soil while Lynn continued off and on, to wrench her arm out of its socket trying to get the thing to spark.
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2012/03/rotovating-224x300.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2012/03/rotovating-224x300.jpg)
 
 I was within seconds of listing the rotovator on eBay mobile when Lynn managed to coax a satisfying splutter and roar. She delivered it to my potato bed with an almighty smug smile and happily announced that the petrol tank was empty.
 
@@ -33,7 +33,7 @@ Lynn cracked on with the potato planting while I retired to ~~play with a new ga
 
 My previous tea making gadget, the Kelly Kettle, was not that popular with her in doors. It usually caused a little friction on the plot as it took me an age to build up sufficient tinder to heat up a couple of mugs of tea and I think it was seen as an excuse for a sit down.
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2012/03/Valor-Tea-224x300.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2012/03/Valor-Tea-224x300.jpg)
 
 The Valor 64C didn't fair much better though. I had a long mothers day chat with my mum, prepared labels for all my planned seed sowings and still the kettle was still only gently steaming. It wasn't the only one steaming!
 

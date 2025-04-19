@@ -5,7 +5,7 @@ date: 2011-08-08 00:20:05
 categories: [posts]
 ---
 
-![](http://www.earthwoman.co.uk/wp-content/uploads/2011/08/Summer-Harvest-224x300.jpg)
+![](https://www.earthwoman.co.uk/wp-content/uploads/2011/08/Summer-Harvest-224x300.jpg)
 
 It's been an incredibly productive season. Today we bagged up 3 sacks of assorted spuds and loaded the car boot with beans galore.
 

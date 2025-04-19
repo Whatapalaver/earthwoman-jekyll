@@ -9,4 +9,4 @@ It was a bit soggy on the plot today but I spent a couple of hours in the shed, 
 
 Here's the logmaking process in montage:
 
-[![Logmaking](http://farm3.static.flickr.com/2213/2188614928_09726ec2fb_o.png)](http://www.flickr.com/photos/warriorwomen/2188614928/)
+[![Logmaking](https://farm3.static.flickr.com/2213/2188614928_09726ec2fb_o.png)](https://www.flickr.com/photos/warriorwomen/2188614928/)

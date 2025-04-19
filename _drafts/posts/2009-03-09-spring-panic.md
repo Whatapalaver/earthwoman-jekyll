@@ -5,7 +5,7 @@ date: 2009-03-09 21:32:43
 categories: [posts]
 ---
 
-[![spring](http://www.earthwoman.co.uk/wp-content/uploads/2009/03/p-640-480-95a64692-1c64-4134-8c82-c3fb7955b088.jpeg)](http://www.earthwoman.co.uk/wp-content/uploads/2009/03/p-640-480-95a64692-1c64-4134-8c82-c3fb7955b088.jpeg)
+[![spring](https://www.earthwoman.co.uk/wp-content/uploads/2009/03/p-640-480-95a64692-1c64-4134-8c82-c3fb7955b088.jpeg)](https://www.earthwoman.co.uk/wp-content/uploads/2009/03/p-640-480-95a64692-1c64-4134-8c82-c3fb7955b088.jpeg)
 
 Absolutely stunning spring morning, shamefully wasted away in bed, and then followed by an afternoon trip to the plot, accompanied by a flurry of soggy hail - my favourite.
 

@@ -5,11 +5,11 @@ date: 2008-03-21 19:46:00
 categories: [posts]
 ---
 
-The trouble with early Easter breaks is the tendency of the British weather to thwart any and all gardening plans. You wouldn't believe how much work I had scheduled for this extended weekend, I was going to turn my plot into a prize winning specimen based on this weekends labour alone. Instead I've been forced back to flat to do constructive yet boring work like painting the walls. Not good at all, fortunately, [Bean Sprouts](http://bean-sprouts.blogspot.com/2008/03/lenten-moon.html) informs me that it will be 150 years before we get another Easter quite this early again.
+The trouble with early Easter breaks is the tendency of the British weather to thwart any and all gardening plans. You wouldn't believe how much work I had scheduled for this extended weekend, I was going to turn my plot into a prize winning specimen based on this weekends labour alone. Instead I've been forced back to flat to do constructive yet boring work like painting the walls. Not good at all, fortunately, [Bean Sprouts](https://bean-sprouts.blogspot.com/2008/03/lenten-moon.html) informs me that it will be 150 years before we get another Easter quite this early again.
 
 The past few weekends have been washouts but I've managed to catch the odd hour or so between showers to do a little pottering. I got a few more rows of spuds in yesterday and I now have 6 rows planted and enough left chitting for another 6. Trouble is I don't have the land for another 6, at least not if I intend to harvest anything other than spuds. I think I may put the rest of my Kerrs Pink up for adoption, I don't even like floury spuds so it seems a shame to let them take up all my courgette space.
 
-[![Water Lily](http://farm4.static.flickr.com/3198/2348287708_bc8d563109_m.jpg)](http://www.flickr.com/photos/warriorwomen/2348287708/)
+[![Water Lily](https://farm4.static.flickr.com/3198/2348287708_bc8d563109_m.jpg)](https://www.flickr.com/photos/warriorwomen/2348287708/)
 
 Spring was welcomed in by the first flowering of my water lily. Quite an odd flower but attractive to a forgiving eye.
 

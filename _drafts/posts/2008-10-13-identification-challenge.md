@@ -9,7 +9,7 @@ My parents visited again this weekend and while I was spoiling myself with anoth
 
 Here's my share of their finds:
 
-[![Assorted Squash](http://farm4.static.flickr.com/3024/2938398648_78257f4492.jpg)](http://www.flickr.com/photos/warriorwomen/2938398648/)
+[![Assorted Squash](https://farm4.static.flickr.com/3024/2938398648_78257f4492.jpg)](https://www.flickr.com/photos/warriorwomen/2938398648/)
 
 It's a pack of 10 assorted yet edible Italian squashes. The seeds were packed together so there was hours of fun trying to identify 10 unique varieties. I could seperate 5 distinct seed types before bundling the remaining into a large nondescript pile. I still haven't a clue what any of the seeds are, I'm assuming that the large seeds give rise to the larger squash and maybe the bent seed is the crookneck squash but I suppose I could be completely wrong.
 
