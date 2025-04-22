@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Month in Pictures - April"
+image: https://farm3.static.flickr.com/2239/2460299586_c136ac319f.jpg
 date: 2008-05-05 23:34:43
-categories: [posts]
+tags:
+  - "month in pictures"
 ---
 
 [![Month in Pictures - April](https://farm3.static.flickr.com/2239/2460299586_c136ac319f.jpg)](https://www.flickr.com/photos/warriorwomen/2460299586/)

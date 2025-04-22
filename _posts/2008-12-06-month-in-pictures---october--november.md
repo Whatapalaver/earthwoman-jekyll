@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Month in Pictures - October & November"
+image: https://farm4.static.flickr.com/3077/3131781382_691361f19b.jpg
 date: 2008-12-06 14:57:07
-categories: [posts]
+tags:
+  - "month in pictures"
 ---
 
 [![Month in Pictures - October and November 2008](https://farm4.static.flickr.com/3077/3131781382_691361f19b.jpg)](https://www.flickr.com/photos/warriorwomen/3131781382/)

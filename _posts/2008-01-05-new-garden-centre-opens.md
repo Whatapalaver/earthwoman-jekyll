@@ -2,7 +2,10 @@
 layout: post
 title: "New Garden Centre Opens"
 date: 2008-01-05 17:45:47
-categories: [posts]
+image: https://farm3.static.flickr.com/2337/2169015960_6f49882765_m.jpg
+tags:
+  - seeds
+  - "fire log"
 ---
 
 [![New Garden Centre Opens](https://farm3.static.flickr.com/2337/2169015960_6f49882765_m.jpg)](https://www.flickr.com/photos/warriorwomen/2169015960/)

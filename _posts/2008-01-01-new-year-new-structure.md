@@ -2,7 +2,9 @@
 layout: post
 title: "New Year, New Structure"
 date: 2008-01-01 23:25:38
-categories: [posts]
+image: https://farm3.static.flickr.com/2231/2154371015_13e2c9c855.jpg
+tags:
+  - "site preparation"
 ---
 
 There's been stacks of progress over the New Year break and I'm sitting here at the end of the day with a labor intensive back ache. Good job I'm going back to work tomorrow, I need a rest!

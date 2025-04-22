@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Fungal Induced Abstinence (In Search of Chip Butties)"
+image: https://farm3.static.flickr.com/2608/3878935409_93eb0e3445.jpg
 date: 2009-09-02 00:07:16
-categories: [posts]
+tags:
+  - mushrooms
+  - fungi
 ---
 
 Mushrooms are tricky critters. The line between deadly poisonous and delightfully edible is a vague and fluffy one.

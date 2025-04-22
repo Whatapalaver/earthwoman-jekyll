@@ -2,7 +2,9 @@
 layout: post
 title: "Leaf Feast"
 date: 2008-01-19 20:04:07
-categories: [posts]
+image: https://farm3.static.flickr.com/2317/2202883397_1dac094d70_m.jpg
+tags:
+  - rocket
 ---
 
 Not a great weekend for allotment pottering but I can enjoy a cup of tea in a nice dry shed even on the worst of days.

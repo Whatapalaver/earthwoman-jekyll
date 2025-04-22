@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Month in Pictures - June"
+image: https://farm4.static.flickr.com/3033/2636768591_dc4d17fb5c.jpg
 date: 2008-07-04 23:03:04
-categories: [posts]
+tags:
+  - "month in pictures"
 ---
 
 So June has been and gone and I can't believe I managed to miss the summer solstice. I was pleased to discover while putting together this months - Month in Pictures, that I was at least on the plot on the 21st - sowing more carrots. If the summer solstice is also known as midsummers day, that would also suggest that I missed the whole of the first half of summer, I've been assuming we were still in spring - when does summer actually start?

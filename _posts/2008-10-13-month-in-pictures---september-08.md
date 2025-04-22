@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Month in Pictures - September 08"
+image: https://farm4.static.flickr.com/3031/2938638783_91573eaf56.jpg
 date: 2008-10-13 21:36:32
-categories: [posts]
+tags:
+  - "month in pictures"
 ---
 
 [![Month in Pictures - September 2008](https://farm4.static.flickr.com/3031/2938638783_91573eaf56.jpg)](https://www.flickr.com/photos/warriorwomen/2938638783/)

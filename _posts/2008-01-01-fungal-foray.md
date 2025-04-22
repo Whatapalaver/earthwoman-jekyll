@@ -2,7 +2,10 @@
 layout: post
 title: "Fungal Foray"
 date: 2008-01-01 22:42:55
-categories: [posts]
+iamge: https://farm3.static.flickr.com/2082/2146452577_fedf6b97ae_m.jpg
+tags:
+  - fungus
+  - mushrooms
 ---
 
 For Christmas this year I got a couple of packs of mushroom "seed" or more accurately, packs of wooden dowells impregnated with mushroom mycelium.

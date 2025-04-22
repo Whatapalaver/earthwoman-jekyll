@@ -2,7 +2,10 @@
 layout: post
 title: "Chard Nurturing"
 date: 2007-11-03 22:45:32
-categories: [posts]
+image: https://farm3.static.flickr.com/2108/1775526896_426225df3c_m.jpg
+tags:
+  - "compost"
+  - "site preparation"
 ---
 
 [![Compost Heap](https://farm3.static.flickr.com/2108/1775526896_426225df3c_m.jpg)](https://www.flickr.com/photos/warriorwomen/1775526896/)

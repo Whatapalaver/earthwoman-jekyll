@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Carriage Awaits"
+image: https://farm3.static.flickr.com/2378/1966212020_64d5878539.jpg
 date: 2007-11-14 10:17:18
-categories: [posts]
+tags:
+  - compost
+  - "bike trailer"
 ---
 
 After last weeks struggle with the compost I decided it was time to invest in a high tech conveyor - a wheeled contraption is required for lugging the heavy stuff.

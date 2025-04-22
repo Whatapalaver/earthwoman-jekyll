@@ -2,7 +2,7 @@
 layout: post
 title: "Bleak Mid-Winter"
 date: 2007-12-23 19:27:01
-categories: [posts]
+image: https://farm3.static.flickr.com/2328/2130684893_b96e7b41e4_m.jpg
 ---
 
 [![Misty](https://farm3.static.flickr.com/2328/2130684893_b96e7b41e4_m.jpg)](https://www.flickr.com/photos/warriorwomen/2130684893/)

@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Month in Pictures - December"
+image: https://farm4.static.flickr.com/3083/3131766626_6c45a6a40a.jpg
 date: 2008-12-31 09:57:51
-categories: [posts]
+tags:
+  - "month in pictures"
 ---
 
 [![Month in Pictures - December 2008](https://farm4.static.flickr.com/3083/3131766626_6c45a6a40a.jpg)](https://www.flickr.com/photos/warriorwomen/3131766626/)

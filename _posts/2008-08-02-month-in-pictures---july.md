@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Month in Pictures - July"
+image: https://farm4.static.flickr.com/3072/2726626816_fb52943964.jpg
 date: 2008-08-02 20:55:05
-categories: [posts]
+tags:
+  - "month in pictures"
 ---
 
 Blimey, July is a busy month.

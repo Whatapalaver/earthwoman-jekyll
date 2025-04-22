@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "View on the Inside"
+image: https://farm3.static.flickr.com/2179/2081113848_c3f6cc7889_m.jpg
 date: 2007-12-02 17:57:39
-categories: [posts]
+tags:
+  - shed
 ---
 
 Well there was no eviction notice tacked to the front of the shed so I may start to relax now. Mind you it was so windy today that any notice would have blown away, I was surprised the shed hadn't taken off in fact.
-
-Check out the laminate flooring!
-
-[![Shed Wide View](https://www.earthwoman.co.uk/wp-content/uploads/2007/12/shedwideview.jpg)](https://www.earthwoman.co.uk/wp-content/uploads/2007/12/shedwideview.jpg "Shed Wide View")
 
 [![Spartan Apple Tree](https://farm3.static.flickr.com/2179/2081113848_c3f6cc7889_m.jpg)](https://www.flickr.com/photos/warriorwomen/2081113848/)
 

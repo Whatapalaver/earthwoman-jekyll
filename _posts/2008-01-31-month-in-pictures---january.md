@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Month in Pictures - January"
+image: https://farm4.static.flickr.com/3152/2301911109_432cc20a44.jpg)](https://www.flickr.com/photos/warriorwomen/2301911109/
 date: 2008-01-31 19:50:39
-categories: [posts]
+tags:
+  - "month in pictures"
 ---
 
 [![Month in Pictures - January 2008](https://farm4.static.flickr.com/3152/2301911109_432cc20a44.jpg)](https://www.flickr.com/photos/warriorwomen/2301911109/)

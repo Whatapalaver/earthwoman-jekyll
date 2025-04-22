@@ -1,8 +1,12 @@
 ---
 layout: post
 title: "Cuppa Char Anyone?"
+image: https://farm3.static.flickr.com/2277/2172114411_130d3b5a84_m.jpg
 date: 2008-01-06 21:56:15
-categories: [posts]
+tags:
+  - shed
+  - "bike trailer"
+  - "bird box"
 ---
 
 [![Room of Ones Own](https://farm3.static.flickr.com/2277/2172114411_130d3b5a84_m.jpg)](https://www.flickr.com/photos/warriorwomen/2172114411/)

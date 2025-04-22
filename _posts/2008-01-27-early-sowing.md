@@ -2,7 +2,9 @@
 layout: post
 title: "Early Sowing"
 date: 2008-01-27 21:42:37
-categories: [posts]
+image: https://farm3.static.flickr.com/2403/2223907594_b40b6ba8c4_m.jpg
+tags:
+  - sowing
 ---
 
 I didn't think I'd get to the allotment this weekend but while I was in the park, trying to squeeze in a long run for my [half marathon training](https://www.warriorwomen.co.uk), it struck me what a great gardening day it was. Didn't take much for me to cut the run short and head off to the plot.

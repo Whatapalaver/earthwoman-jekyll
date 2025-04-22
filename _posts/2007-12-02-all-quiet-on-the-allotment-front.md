@@ -2,7 +2,11 @@
 layout: post
 title: "All Quiet on the Allotment Front"
 date: 2007-12-02 14:22:20
-categories: [posts]
+image: https://farm3.static.flickr.com/2174/2062514303_31b6b1f7e4_m.jpg
+tags:
+  - "site preparation"
+  - family
+  - shed
 ---
 
 Well it hasn't been all that quiet it's just been so stressful recently that I've kind of gone into blogging hibernation.
